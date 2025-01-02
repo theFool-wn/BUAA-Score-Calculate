@@ -44,4 +44,4 @@ $`GPA=
 # LICENSE
 This work is licensed under a [Apache-2.0 license](/LICENSE).
 
-&copy; 2024 Wang Nan.
+&copy; 2024-2025 Wang Nan.
